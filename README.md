@@ -1,6 +1,6 @@
 # my-first-ml-project
 A beginner-friendly Machine Learning project that explores medical insurance data, performs data cleaning and preprocessing, and uses Linear Regression to predict insurance charges based on factors such as age, BMI, smoking habits, and other personal characteristics.
-# Medical Insurance Cost Prediction 💰
+# Medical Insurance Cost Prediction 
 
 ## About the Project
 
